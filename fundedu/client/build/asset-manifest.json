@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f20cc685.chunk.css",
+    "main.js": "/static/js/main.0b1c481b.chunk.js",
+    "main.js.map": "/static/js/main.0b1c481b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.954865f1.chunk.js": "/static/js/2.954865f1.chunk.js",
+    "static/js/2.954865f1.chunk.js.map": "/static/js/2.954865f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.59d0fbb2168d9b08cd45dd6e11a7b694.js": "/precache-manifest.59d0fbb2168d9b08cd45dd6e11a7b694.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f20cc685.chunk.css.map": "/static/css/main.f20cc685.chunk.css.map",
+    "static/media/Navbar.css": "/static/media/back.b8583d6e.jpg",
+    "static/media/class.jpg": "/static/media/class.ef4fac97.jpg",
+    "static/media/hand.jpg": "/static/media/hand.969b963b.jpg",
+    "static/media/StudentDashboard.css": "/static/media/support.67e483c7.jpg",
+    "static/media/FunderDashboard.css": "/static/media/students.3506a83a.jpg"
+  }
+}

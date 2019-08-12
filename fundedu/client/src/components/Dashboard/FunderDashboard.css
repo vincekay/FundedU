@@ -1,0 +1,30 @@
+
+#student {
+  background-image: url("../../img/students.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+#add{
+  max-height: 50px;
+}
+
+#addImg{
+  max-height: 100px;
+  padding: 10px;
+}
+
+tbody {
+  display: block;
+  height: 250px;
+  overflow: auto;
+}
+
+.header{
+  margin-top: 0;
+}
+
+.card.large{
+  height: 553px;
+}

@@ -1,0 +1,32 @@
+header{
+    background: url(../../img/back.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 770px;
+  }
+  @media screen and (max-width: 670px){
+    header{
+      min-height: 500px;
+    }
+  }
+
+  .navTop{
+    position: fixed;
+    background: rgba(0,0,0, 0.2);
+    z-index:300;
+  }
+
+  .navScroll{
+    position: fixed;
+    background: rgb(53, 54, 54);
+    z-index:300;
+  }
+
+  nav li a:hover{
+    background: gray;
+  }
+
+  .fixTop{
+    position: fixed;
+    z-index:300;
+  }

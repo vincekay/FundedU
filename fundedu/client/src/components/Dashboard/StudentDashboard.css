@@ -1,0 +1,48 @@
+#receipt {
+  background-image: url("../../img/receipt.jpg");
+  background-size: cover;
+  background-position: top;
+  height: 250px;
+}
+
+tbody {
+  display: block;
+  height: 450px;
+  overflow: auto;
+}
+
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+thead {
+  width: calc(100% - 1em);
+}
+table {
+  width: 100%;
+}
+
+#support {
+  background-image: url("../../img/support.jpg");
+  background-size: 70%;
+  background-position: center;
+  height: 100%;
+}
+
+#receiptcard{
+  height: 680px;
+}
+
+#receiptable{
+  height: 510px;
+}
+
+.dashB{
+  margin-top: 64px;
+}
+
+#supportCard{
+  height: 400px;
+}
